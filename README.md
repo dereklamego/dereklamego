@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**dereklamego/dereklamego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, seja bem-vindo(a) ao meu Github! 👋
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dereklamego/)](https://www.linkedin.com/in/dereklamego/)  [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:derek.lamego@outlook.com)](mailto:derek.lamego@uotlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="" width="350" title="hover text">
+</p>
+
+Desde jovem, fui fascinado com o mundo da tecnologia. Com o objetivo de seguir carreira na área de programação de softwares, iniciei meus estudos de forma autônoma em Web-Design, utilizando as tecnologias de HTML 5, CSS 3, JavaScript pela internet. Atualmente estou cursando o segundo semestre do curso de nível técnico em Análise e Desenvolvimento de Sistemas no SENAI. 
+
+<p align="center">
+  
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereklamego&hide=html&layout=compact&theme=tokyonight" />
+  <img width="434px" src="https://github-readme-stats.vercel.app/api?username=dereklamego&theme=tokyonight&show_icons=true" />
+  
+</p>
