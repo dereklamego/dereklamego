@@ -7,7 +7,17 @@
   <img src="https://github.com/dereklamego/dereklamego/blob/main/laptops.png" width="350" title="hover text">
 </p>
 
-Desde jovem, fui fascinado com o mundo da tecnologia. Com o objetivo de seguir carreira na área de desenvolvimento de softwares, iniciei meus estudos de forma autônoma em programação web, utilizando as tecnologias de HTML 5, CSS 3, JavaScript pela internet. Atualmente estou cursando o terceiro e último semestre do curso de nível técnico em Análise e Desenvolvimento de Sistemas no SENAI.
+Hi, my name is Derek, and i'm full-stack developer using the following technologies:
+
+Front-end:
+  -HTML5
+  -CSS3
+  -JavaScript
+  -Vue.js
+  
+Back-end:
+  -JAVA
+  -Spring Boot
 
 <p align="center">
   
