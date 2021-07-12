@@ -10,11 +10,19 @@
 <p>Hi, my name is Derek, and i'm full-stack developer using the following technologies:</p>
 
 <p>
-  <b>Front-end: </b> HTML5 | CSS3 | BOOTSTRAP | JAVASCRIPT | VUE.JS 
+  <b>Front-end:</b> HTML5 | CSS3 | BOOTSTRAP | JAVASCRIPT | VUE.JS 
 </p>
 
 <p>
-  <b>Back-end: </b> JAVA | SPRING BOOT 
+  <b>Back-end:</b> JAVA | SPRING BOOT 
+</p>
+
+<p>
+  <b>Mobile:</b> REACT-NATIVE
+</p>
+
+<p>
+  <b>Data-base:</b> MYSQL | POSTGRESQL
 </p>
 
 <p align="center">
