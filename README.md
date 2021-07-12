@@ -9,13 +9,14 @@
 
 <p>Hi, my name is Derek, and i'm full-stack developer using the following technologies:</p>
 
-<p><b>Front-end:        Back-end:</b></p>
-<ul>
-  <li>HTML5&nbsp&nbsp&nbsp JAVA</li>
-  <li>CSS3&nbsp&nbsp&nbs&nbsp&nbsp Spring Boot</li>
-  <li>JavaScript</li>
-  <li>Vue.js</li>
-</ul>
+<p>
+  <b>Front-end: </b> HTML5 | CSS3 | BOOTSTRAP | JAVASCRIPT | VUE.JS 
+</p>
+
+<p>
+  <b>Back-end: </b> JAVA | SPRING BOOT 
+</p>
+
 <p align="center">
   
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereklamego&hide=html&layout=compact&theme=tokyonight" />
