@@ -7,9 +7,15 @@
   <img src="https://github.com/dereklamego/dereklamego/blob/main/laptops.png" width="350" title="hover text">
 </p>
 
-Hi, my name is Derek, and i'm full-stack developer using the following technologies:
+<p>Hi, my name is Derek, and i'm full-stack developer using the following technologies:</p>
 
-Front-end:
+<p><b>Front-end:</b></p>
+<ul>
+  <li>-HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>Vue.js</li>
+</ul>
   -HTML5
   -CSS3
   -JavaScript
