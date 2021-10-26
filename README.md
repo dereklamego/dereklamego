@@ -29,7 +29,7 @@
 
 <p align="left">
    
-  <img width="364px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereklamego&hide=objective-c&layout=compact&theme=tokyonight&" /> 
+  <img width="364px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereklamego&hide=objective-c&layout=compact&theme=radical&" /> 
   <img width="434px" src="https://github-readme-stats.vercel.app/api?username=dereklamego&theme=radical&show_icons=true" />
   
 </p>
