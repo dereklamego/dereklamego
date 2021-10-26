@@ -14,7 +14,7 @@
 - :man_technologist: I am concluding a certificate in Analysis and Systems Development at [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
 
 
-<br><br>
+<br>
  ### 🛠 &nbsp;Tech Stack
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
