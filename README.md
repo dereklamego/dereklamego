@@ -6,7 +6,7 @@
 ### Hello, human ! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 - :rocket: I’m looking for a first job as a Mobile Developer!
-- 🔭 I am currently learning and improving Typescript and React Native!
+- 🔭 I am currently learning and improving Typescript and React Native at Rocketseat Ignite Bootcamp!
 - 🤔 I intend to take a degree in Computer Science in the next years!
 - 💬 I am available for work in the home office or actual office mode!
 - 📫 How to reach me: lamego.derek@outlook.com
