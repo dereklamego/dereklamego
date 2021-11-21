@@ -5,10 +5,10 @@
 
 ### Hello, welcome to my GitHub! <img src="https://github.githubassets.com/images/mona-loading.gif" width="30px">
 
-- :rocket: I’m looking for a first job as a Mobile Developer!
+- :rocket: I’m looking to evolve my skills as a Mobile Developer!
 - 🔭 I am currently learning and improving TypeScript and React Native at Rocketseat Ignite Bootcamp!
 - 🤔 I intend to take a degree in Computer Science in the next years!
-- 💬 I am available for work in the home office or actual office mode!
+- 💬 I am working from home at Quarta Casa!
 - 📫 How to reach me: lamego.derek@outlook.com
 - :man_technologist: I am concluding a certificate in Analysis and Systems Development at [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
 
