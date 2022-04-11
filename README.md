@@ -10,7 +10,7 @@
 - 🤔 I intend to take a degree in Computer Science in the next years!
 - 💬 I am working from home at Quarta Casa!
 - 📫 How to reach me: lamego.derek@outlook.com
-- :man_technologist: I am concluding a certificate in Analysis and Systems Development at [SENAI](http://senaiweb.fieb.org.br/senai2/cursos/desenvolvimento-de-sistemas).
+
 
 
 <br>
