@@ -7,9 +7,9 @@
 
 - :rocket: I’m looking to evolve my skills as a Mobile Developer!
 - 🔭 I am currently learning and improving TypeScript and React Native at Rocketseat Ignite Bootcamp!
-<!-- - 🤔 I intend to take a degree in Computer Science in the next years! -->
 - 💬 I am working from home at Quarta Casa!
 - 📫 How to reach me: lamego.derek@outlook.com
+ <!-- - 🤔 I intend to take a degree in Computer Science in the next years! -->
 
 
 
