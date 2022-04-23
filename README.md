@@ -31,9 +31,9 @@
 
 <p align="left">
    
- <a href="http://www.github.com/dereklamego"> <img width="414px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereklamego&hide=objective-c&layout=compact&theme=radical&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true" />
+ <a href="http://www.github.com/dereklamego"> <img width="344px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereklamego&hide=objective-c&layout=compact&theme=radical&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true" />
  </a>
- <a href="http://www.github.com/dereklamego"><img src="https://github-readme-stats.vercel.app/api?username=dereklamego&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true"  />
+ <a href="http://www.github.com/dereklamego"><img width="414px" src="https://github-readme-stats.vercel.app/api?username=dereklamego&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true"  />
  </a>
  
 </p>
