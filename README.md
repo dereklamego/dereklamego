@@ -5,9 +5,9 @@
 
 ### Hello, welcome to my GitHub! <img src="https://github.githubassets.com/images/mona-loading.gif" width="30px">
 
-- :rocket: I’m looking to evolve my skills as a Mobile Developer!
-- 🔭 I am currently learning and improving TypeScript and React Native at Rocketseat Ignite Bootcamp!
-- 💬 I am working from home at Quarta Casa!
+- :rocket: I’m a front-end developer, looking to evolve my skills as a Mobile Developer!
+- 🔭 I am currently learning and improving TypeScript, React Native and React.JS at Rocketseat Ignite Bootcamp!
+- 💬 I am working from home at Macfor!
 - 📫 How to reach me: lamego.derek@outlook.com
  <!-- - 🤔 I intend to take a degree in Computer Science in the next years! -->
 
