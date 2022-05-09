@@ -9,7 +9,7 @@
 - 🔭 I am currently learning and improving TypeScript, React Native and React.JS at Rocketseat Ignite Bootcamp!
 - 💬 I am working from home at Macfor!
 - 📫 How to reach me: lamego.derek@outlook.com
- <!-- - 🤔 I intend to take a degree in Computer Science in the next years! -->
+- 📚 I'm doing a degree in Computer Science at UNIFACS! 
 
 
 
