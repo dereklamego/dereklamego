@@ -3,7 +3,7 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dereklamego/)](https://www.linkedin.com/in/dereklamego/)  [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:derek.lamego@outlook.com)](mailto:derek.lamego@uotlook.com)
 
-### Hello, welcome to my GitHub! <img src="https://github.githubassets.com/images/mona-loading.gif" width="30px">
+### Hello, welcome to my GitHub! 
 
 - :rocket: I’m a front-end developer, looking to evolve my skills as a Mobile Developer!
 - 🔭 I am currently learning and improving TypeScript, React Native and React.JS at Rocketseat Ignite Bootcamp!
