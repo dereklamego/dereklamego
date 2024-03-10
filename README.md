@@ -7,7 +7,6 @@
 
 - :rocket: I’m a front-end developer, looking to evolve my skills as a Full-stack Developer!
 - 🔭 I am currently learning and improving TypeScript, React Native, React.JS and Node.js at Rocketseat Ignite Bootcamp!
-- 💬 I am working from home at Macfor!
 - 📫 How to reach me: lamego.derek@outlook.com
 - 📚 I'm doing a degree in Computer Science at UNIFACS! 
 
