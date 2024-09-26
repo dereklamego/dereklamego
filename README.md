@@ -5,8 +5,8 @@
 
 ### Hello, welcome to my GitHub! 
 
-- :rocket: I’m a front-end developer, looking to evolve my skills as a Full-stack Developer!
-- 🔭 I am currently learning and improving TypeScript, React Native, React.JS and Node.js at Rocketseat Ignite Bootcamp!
+- :rocket: I’m a full-stack developer!
+- 🔭 I am currently use TypeScript, React Native, React.JS and Node.js!
 - 📫 How to reach me: lamego.derek@outlook.com
 - 📚 I'm doing a degree in Computer Science at UNIFACS! 
 
